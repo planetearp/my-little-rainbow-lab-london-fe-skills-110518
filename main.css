@@ -10,30 +10,30 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#red {
+div #red {
   background: #f00;
 }
 
-#orange {
+div #orange {
   background: #ffa500;
 }
 
-#yellow {
+div #yellow {
   background: #ff0;
 }
 
-#green {
+div #green {
   background: #00bc3f;
 }
 
-#blue {
+div #blue {
   background: #06f;
 }
 
-#indigo {
+div #indigo {
   background: #8a2be2;
 }
 
-#violet {
-  background: #f00;
+div #violet {
+  background: #d300c9;
 }
